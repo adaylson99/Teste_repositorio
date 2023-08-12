@@ -13,7 +13,7 @@ opções
 
   DICAS MELHORES!!
   
-  '''SQL
+  ```SQL
   select * from tb teste;
   '''
 
