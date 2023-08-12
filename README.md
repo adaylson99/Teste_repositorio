@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/Author-AlexSouza-blue.svg)](https://linktr.ee/zouza) [![Language](https://img.shields.io/badge/Language-Python|R-green.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/aasouzaconsult/Cientista-de-Dados)
 
-![Adailson](![image](https://github.com/adaylson99/Teste_repositorio/assets/137455643/2d80cead-d470-4b3b-ae8a-7b40272cde03)
+![Adailson](file:///C:/Users/Usu%C3%A1rio/Pictures/WhatsApp%20Image%202023-07-03%20at%2001.17.12.jpeg)
 )
 
 # Meu primeiro repositório de teste.
