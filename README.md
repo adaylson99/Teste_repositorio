@@ -18,15 +18,6 @@ opções
   ```SQL
   select * from tb teste;
  ```
-
-[Link teste](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#uploading-assets)
-
-  # teste
-
-
-  ### teste
-
-###### teste 
-############ teste
+----------
   
 
