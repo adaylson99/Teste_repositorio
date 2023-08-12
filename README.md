@@ -1,7 +1,6 @@
 [![author](https://img.shields.io/badge/Author-AlexSouza-blue.svg)](https://linktr.ee/zouza) [![Language](https://img.shields.io/badge/Language-Python|R-green.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/aasouzaconsult/Cientista-de-Dados)
 
-![Adailson](file:///C:/Users/Usu%C3%A1rio/Pictures/WhatsApp%20Image%202023-07-03%20at%2001.17.12.jpeg)
-)
+![WhatsApp Image 2023-07-03 at 01 17 12](https://github.com/adaylson99/Teste_repositorio/assets/137455643/ee63dfaf-81d4-43a2-b888-e67ea50cd623)
 
 # Meu primeiro repositório de teste.
 Repositório de teste.
@@ -18,7 +17,8 @@ opções
   
   ```SQL
   select * from tb teste;
-  '''
+  '''![WhatsApp Image 2023-07-03 at 01 17 12](https://github.com/adaylson99/Teste_repositorio/assets/137455643/ee63dfaf-81d4-43a2-b888-e67ea50cd623)
+
 
   # teste
 
